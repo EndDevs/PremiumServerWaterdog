@@ -1,0 +1,6 @@
+---
+name: PremiumServerWaterdog
+api: [3.0.0, 4.0.0]
+version: 1.0.3
+main: KeksDev\PremiumServer\main
+...
